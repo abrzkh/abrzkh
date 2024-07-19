@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @abrzkh
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning how to code!
+
